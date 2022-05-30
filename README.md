@@ -35,10 +35,8 @@ http://wiki.ros.org/kinetic/Installation/Ubuntu
   * Import the new key $ sudo -E apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
   * $ sudo apt-get update
 
-
 7. Python 3.7.x 
-https://stackoverflow.com/questions/63427037/package-python3-7-is-not-available
-
+  * Installing Python 3.7 from Source Code https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or-18-04.html
 
 
 ## For recording the spatiotemporal memory
