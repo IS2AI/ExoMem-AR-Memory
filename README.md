@@ -14,29 +14,33 @@ https://releases.ubuntu.com/16.04/
 2. ROS Kinetic
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 
-3. In the terminal create and build a catkin workspace:
+3. Create and build a catkin workspace:
   * $ mkdir -p ~/catkin_ws/src
   * $ cd ~/catkin_ws/
   * $ catkin_make
   
-  Copy and paste folder ros_aruco to the directory ~/catkin_ws/src
+4. Copy and paste folder ros_aruco to the directory ~/catkin_ws/src
   * $ sudo apt-get install ros-kinetic-fiducials
   * $ catkin_make
   * $ sudo apt-get update
+  
   If not updated run the following commands:
   * Remove the old key $ sudo apt-key del 421C365BD9FF1F717815A3895523BAEEB01FA116
   * Import the new key $ sudo -E apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
   * $ sudo apt-get update
 
-4. Setting up the Python 2.7.x and Python 3.7.x environments
+5. Set Python 2.7.x and Python 3.7.x environments
   * Python 2.7 is already installed during the ROS Kinetic installatipon in Step 2.
   * Install Python 3.7 from Source Code https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or-18-04.html
   * $ sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 2
   * $ sudo update-alternatives --install /usr/local/bin/python python /usr/local/bin/python3.7 3
 
-5. OpenCV to Python 3.7.x
+  Upgrade pip3 and setuptools to the latest versions:
+  * pip3 install --upgrade pip setuptools
 
+6. Istall OpenCV to Python 3.7.x 
+  * $ sudo pip3 install opencv-contrib-python
   
-Copy and paste folder AI_Environment_Perception to the directory ~/home
+7. Copy and paste folder AI_Environment_Perception to the directory ~/home
 
 ## For recording the spatiotemporal memory
