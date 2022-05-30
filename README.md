@@ -5,5 +5,7 @@ This repository contains the source code developed for human memory augmentation
 # Dependencies
 
 ## For AI environment perception
+1. Ubuntu 16.04
+2. ROS Kinetic
 
 ## For recording the spatiotemporal memory
