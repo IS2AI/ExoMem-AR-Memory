@@ -4,7 +4,7 @@ This repository contains the source code developed for human memory augmentation
 
 # Dependencies
 
-## For AI environment perception
+## AI environment perception
 
 ### CV-based user localization using ArUco fiducial markers
 
@@ -54,4 +54,4 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * $ unset PYTHONPATH
   * $ python AI_environment_perception.py -a 172.20.10.4
  
-## For recording the spatiotemporal memory
+## Spatiotemporal memory in AR environment
