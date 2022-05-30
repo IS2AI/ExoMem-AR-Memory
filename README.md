@@ -15,13 +15,14 @@ https://releases.ubuntu.com/16.04/
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 
 3. In the terminal create and build a catkin workspace:
-  $ mkdir -p ~/catkin_ws/src
-  $ cd ~/catkin_ws/
-  $ catkin_make
+  * $ mkdir -p ~/catkin_ws/src
+  * $ cd ~/catkin_ws/
+  * $ catkin_make
   
 4. Copy and paste folder ros_aruco to the catkin_ws/src
 
-5. $ sudo apt-get install ros-kinetic-fiducials
-6. $ catkin_make
+5. In the terminal run following commands 
+  * $ sudo apt-get install ros-kinetic-fiducials
+  * $ catkin_make
 
 ## For recording the spatiotemporal memory
