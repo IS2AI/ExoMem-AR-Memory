@@ -96,3 +96,9 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 # User using the ExoMem to record the spatiotemporal memory
 https://user-images.githubusercontent.com/7812207/171020501-328fe9ce-85b5-4c73-958b-fad2edab3fc3.mp4
 
+# AI performing the object recognition and user localization
+https://user-images.githubusercontent.com/7812207/171021099-45a67876-da4f-4aa6-a941-f6337c195bea.mp4
+
+
+
+
