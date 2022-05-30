@@ -56,7 +56,7 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
  
 ## Unity application for AR environment 
 
-# ExoMem execution
+# ExoMem 
 
 ## For recording the spatiotemporal memory
 1. Start the ros master
@@ -83,6 +83,13 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * $ python AI_environment_perception.py -a 172.20.10.4
 
 4. Run the Unity application in HoloLens 2 
+  * ExoMem_Record_Spatiotemporal_Memory
 
-## For loading the spatiotemporal memory already recorded
+## For loading the spatiotemporal memory 
 1. Run the Unity application in HoloLens 2
+  * ExoMem_Load_Spatiotemporal_Memory
+
+## For running the computer based test 
+1. Run the Unity application in Desktop computer
+  * Computer_based_test
+
