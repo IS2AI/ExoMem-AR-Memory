@@ -19,24 +19,23 @@ http://wiki.ros.org/kinetic/Installation/Ubuntu
   * $ cd ~/catkin_ws/
   * $ catkin_make
   
-4. Copy and paste folder ros_aruco to the directory ~/catkin_ws/src
+Copy and paste folder ros_aruco to the directory ~/catkin_ws/src
 
-5. In the terminal run the following commands 
+In the terminal run the following commands 
   * $ sudo apt-get install ros-kinetic-fiducials
   * $ catkin_make
-
-6. Copy and paste folder AI_Environment_Perception to the directory ~/home
-
-7. In the terminal run
+  
+In the new terminal run  
   * $ sudo apt-get update
 
-8. If not updated run the following commands:
+If not updated run the following commands:
   * Remove the old key $ sudo apt-key del 421C365BD9FF1F717815A3895523BAEEB01FA116
   * Import the new key $ sudo -E apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
   * $ sudo apt-get update
 
-7. Python 3.7.x 
+4. Setting up the Python 2.7.X and Python 3.7.X environments
   * Installing Python 3.7 from Source Code https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or-18-04.html
-
+  
+Copy and paste folder AI_Environment_Perception to the directory ~/home
 
 ## For recording the spatiotemporal memory
