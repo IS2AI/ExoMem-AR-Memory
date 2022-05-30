@@ -23,23 +23,22 @@ http://wiki.ros.org/kinetic/Installation/Ubuntu
   * $ sudo apt-get install ros-kinetic-fiducials
   * $ catkin_make
   
-5 Update the system  
+5. Update the system  
   * $ sudo apt-get update
   * If not updated remove the old key and import the new key
   * $ sudo apt-key del 421C365BD9FF1F717815A3895523BAEEB01FA116
   * $ sudo -E apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
   * $ sudo apt-get update
 
-5. Install Python 3.7 from Source Code (Python 2.7 is already installed during the ROS Kinetic installatipon in Step 2)
+6. Install Python 3.7 from Source Code (Python 2.7 is already installed during the ROS Kinetic installatipon in Step 2)
 https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or-18-04.html
   * $ sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 2
   * $ sudo update-alternatives --install /usr/local/bin/python python /usr/local/bin/python3.7 3
-  Upgrade pip3 and setuptools to the latest versions:
-  * pip3 install --upgrade pip setuptools
-
-6. Istall OpenCV to Python 3.7.x 
+ 
+7. Istall OpenCV to Python 3.7.x, but first upgrade pip3 and setuptools to the latest versions
+  * $ pip3 install --upgrade pip setuptools
   * $ sudo pip3 install opencv-contrib-python
   
-7. Copy and paste folder AI_Environment_Perception to the directory ~/home
+8. Copy and paste folder AI_Environment_Perception to the directory ~/home
 
 ## For recording the spatiotemporal memory
