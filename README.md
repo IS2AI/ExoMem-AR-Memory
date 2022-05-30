@@ -15,8 +15,8 @@ https://releases.ubuntu.com/16.04/
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 
 3. Create and build a catkin workspace:
-4. $ mkdir -p ~/catkin_ws/src
-5. $ cd ~/catkin_ws/
-6. $ catkin_make
+  $ mkdir -p ~/catkin_ws/src
+  $ cd ~/catkin_ws/
+  $ catkin_make
 
 ## For recording the spatiotemporal memory
