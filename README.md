@@ -85,6 +85,13 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 4. Run the Unity application in HoloLens 2 
   * ExoMem_Record_Spatiotemporal_Memory
 
+### User using the ExoMem to record the spatiotemporal memory
+https://user-images.githubusercontent.com/7812207/171020501-328fe9ce-85b5-4c73-958b-fad2edab3fc3.mp4
+
+### AI performing the object recognition and user localization
+https://user-images.githubusercontent.com/7812207/171021099-45a67876-da4f-4aa6-a941-f6337c195bea.mp4
+
+
 ## Load the spatiotemporal memory 
 1. Run the Unity application in HoloLens 2
   * ExoMem_Load_Spatiotemporal_Memory
@@ -93,12 +100,5 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 1. Run the Unity application in Desktop computer
   * Computer_based_test
 
-# User using the ExoMem to record the spatiotemporal memory
-https://user-images.githubusercontent.com/7812207/171020501-328fe9ce-85b5-4c73-958b-fad2edab3fc3.mp4
-
-# AI performing the object recognition and user localization
-https://user-images.githubusercontent.com/7812207/171021099-45a67876-da4f-4aa6-a941-f6337c195bea.mp4
-
-
-
+### User completing the computer-based recall test using the ExoMem
 
