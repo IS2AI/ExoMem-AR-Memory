@@ -6,7 +6,7 @@ This repository contains the source code developed for human memory augmentation
 
 ## For AI environment perception
 
-### ArUco marker based user localization 
+### CV-based user localization using ArUco fiducial markers
 
 1. Ubuntu 16.04 
 https://releases.ubuntu.com/16.04/
@@ -28,16 +28,31 @@ http://wiki.ros.org/kinetic/Installation/Ubuntu
   * $ sudo apt-key del 421C365BD9FF1F717815A3895523BAEEB01FA116
   * $ sudo -E apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
   * $ sudo apt-get update
+  
+6. Check the system:
+  * roscore
+  * cd catkin_ws/
+  * source devel/setup.bash
+  * rosrun ros_aruco aruco_node
 
-6. Install Python 3.7 from Source Code (Python 2.7 is already installed during the ROS Kinetic installatipon in Step 2)
+### Object recognition using YOLO V3 object detector
+
+1. Install Python 3.7 from Source Code (Python 2.7 is already installed during the ROS Kinetic installatipon in Step 2)
 https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or-18-04.html
   * $ sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 2
   * $ sudo update-alternatives --install /usr/local/bin/python python /usr/local/bin/python3.7 3
  
-7. Istall OpenCV to Python 3.7.x, but first upgrade pip3 and setuptools to the latest versions
+2. Istall OpenCV to Python 3.7.x, but first upgrade pip3 and setuptools to the latest versions
   * $ pip3 install --upgrade pip setuptools
   * $ sudo pip3 install opencv-contrib-python
   
-8. Copy and paste folder AI_Environment_Perception to the directory ~/home
+3. Copy and paste folder AI_Environment_Perception to the directory ~/home
+
+4. Check the system:
+  * $ cd AI_environment_perception/
+  * $ sudo update-alternatives --config python
+  * $ unset PYTHONPATH
+  * $ python AI_environment_perception.py -a IP_address_of_hololens 
+  * $ python AI_environment_perception.py -a 172.20.10.4 (This is example)
 
 ## For recording the spatiotemporal memory
