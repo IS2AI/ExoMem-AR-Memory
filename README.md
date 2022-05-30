@@ -54,7 +54,7 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * $ unset PYTHONPATH
   * $ python AI_environment_perception.py -a 172.20.10.4
  
-### ExoMem execution tutorial
+## ExoMem execution tutorial
 
 1. Start the ros master
   * Open a new terminal, roscore will use python 2.7
