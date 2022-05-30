@@ -54,4 +54,31 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * $ unset PYTHONPATH
   * $ python AI_environment_perception.py -a 172.20.10.4
  
+### ExoMem execution tutorial
+
+1. Start the ros master
+  * Open a new terminal, roscore will use python 2.7
+  * $ sudo update-alternatives --config python
+  * Choose the version of python 2.7
+  * $ unset PYTHONPATH
+  * $ source /opt/ros/kinetic/setup.bash
+  * $ roscore
+
+2. Run the aruco_node for localization using ArUco markers
+  * Go to the catkin_ws directory in ros environment
+  * $ cd catkin_ws/
+  * $ source devel/setup.bash
+  * $ rosrun ros_aruco aruco_node
+
+3. Start and run the python code
+  * Go to the directory where the python code is stored
+  * $ cd AI_environment_perception/
+  * For the code the python 3.7 will be used, therefore run the following command
+  * $ sudo update-alternatives --config python
+  * Choose the version of python 3.7
+  * $ unset PYTHONPATH
+  * $ python AI_environment_perception.py -a 172.20.10.4
+
+4. Run the application in HoloLens2 
+
 ## Spatiotemporal memory in AR environment
