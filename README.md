@@ -1,2 +1,2 @@
 
-![ExoMem_github](https://user-images.githubusercontent.com/7812207/170963481-8844aba8-e831-4439-a929-116a8fcc8fb4.png)
+![ExoMem_github](https://user-images.githubusercontent.com/7812207/170967124-46d62397-7130-44b9-a502-3e4a3a949763.png)
