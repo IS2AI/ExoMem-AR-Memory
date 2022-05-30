@@ -5,10 +5,18 @@ This repository contains the source code developed for human memory augmentation
 # Dependencies
 
 ## For AI environment perception
+
+### ArUco marker based user localization 
+
 1. Ubuntu 16.04 
 https://releases.ubuntu.com/16.04/
 
-3. ROS Kinetic
+2. ROS Kinetic
 http://wiki.ros.org/kinetic/Installation/Ubuntu
+
+3. Create and build a catkin workspace:
+$ mkdir -p ~/catkin_ws/src
+$ cd ~/catkin_ws/
+$ catkin_make
 
 ## For recording the spatiotemporal memory
