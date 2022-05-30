@@ -19,13 +19,12 @@ http://wiki.ros.org/kinetic/Installation/Ubuntu
   * $ cd ~/catkin_ws/
   * $ catkin_make
   
-4. Copy and paste folder ros_aruco to the directory ~/catkin_ws/src
+4. Copy and paste folder ros_aruco to the directory ~/catkin_ws/src:
   * $ sudo apt-get install ros-kinetic-fiducials
   * $ catkin_make
   
-5. Update the system  
+5. Update the system. If not updated remove the old key and import the new key:
   * $ sudo apt-get update
-  * If not updated remove the old key and import the new key
   * $ sudo apt-key del 421C365BD9FF1F717815A3895523BAEEB01FA116
   * $ sudo -E apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
   * $ sudo apt-get update
