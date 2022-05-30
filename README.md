@@ -53,6 +53,6 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * $ sudo update-alternatives --config python
   * $ unset PYTHONPATH
   * $ python AI_environment_perception.py -a 172.20.10.4
-  where 172.20.10.4 is IP address of HoloLens 
+  * where 172.20.10.4 is the IP address of HoloLens 
 
 ## For recording the spatiotemporal memory
