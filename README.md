@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b
 
 ## Load the spatiotemporal memory 
 1. Run the Unity application in HoloLens 2
-  * ExoMem_Load_Spatiotemporal_Memory
+  * ExoMem_Load_Memory_HoloLens
 
 ## Computer based test 
 1. Run the Unity application in Desktop computer
