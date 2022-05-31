@@ -60,7 +60,7 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 1. Visual Studio 2019 
 https://visualstudio.microsoft.com/ru/vs/older-downloads/
 
-In the Visual Studio Installer select the following components:
+   In the Visual Studio Installer select the following components:
 * .Net desktop development
 * Universal Windows Platform development
 * Desktop development with C++
