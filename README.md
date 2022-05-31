@@ -51,7 +51,7 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 
 4. Download yolov3-tiny.weights.zip
 https://drive.google.com/drive/folders/1d0y73MaLYDGnXHFyNfsM0MxcvIwlrBDm
-  * Unzip and paste yolov3-tiny.weights to the directory ~/home/AI_Environment_Perception* 
+  * Unzip and paste yolov3-tiny.weights to the directory ~/home/AI_Environment_Perception 
 
 5. Check the system, 172.20.10.4 is the IP address of HoloLens:
   * $ cd AI_environment_perception/
