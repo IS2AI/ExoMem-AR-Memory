@@ -66,7 +66,7 @@ https://visualstudio.microsoft.com/ru/vs/older-downloads/
 * Desktop development with C++
 * .Net Core cross-platform development
 
-2. Unity 2018.4.22f1
+2. Unity 2018.4.28f1
 https://unity3d.com/get-unity/download/archive
 
 # ExoMem 
