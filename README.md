@@ -70,14 +70,17 @@ https://visualstudio.microsoft.com/ru/vs/older-downloads/
 * Desktop development with C++
 * .Net Core cross-platform development
 
+2. Unity 2018.4.28f1
+https://unity3d.com/get-unity/download/archive
+
 ### Unity application for recording the spatiotemporal memory in AR
+1. Method 1
+  * Download 
 
 ### Unity application for loading the spatiotemporal memory in AR
 
 ### Unity application for running the computer-based test 
 
-2. Unity 2018.4.28f1
-https://unity3d.com/get-unity/download/archive
 
 # ExoMem 
 * [Record the spatiotemporal memory in AR](#record)
