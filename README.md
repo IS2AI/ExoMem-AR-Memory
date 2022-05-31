@@ -57,6 +57,9 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
  
 ## Unity application for AR environment 
 
+1. Visual Studio 2019 
+https://visualstudio.microsoft.com/ru/vs/older-downloads/
+
 # ExoMem 
 * [Record the spatiotemporal memory in AR](#record)
 * [Load the spatiotemporal memory in AR](#load)
