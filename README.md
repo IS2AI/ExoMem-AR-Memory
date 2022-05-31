@@ -86,7 +86,10 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * ExoMem_Record_Spatiotemporal_Memory
 
 
+https://user-images.githubusercontent.com/7812207/171107006-372d1727-e0b7-400d-96ed-1fe11455a880.mp4
 
+
+https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b1d2-c34c8ba2ee46.mp4
 
 
 ## Load the spatiotemporal memory 
@@ -98,6 +101,5 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * Computer_based_test
 
 
-
-
+https://user-images.githubusercontent.com/7812207/171107152-00fbc52b-4df4-45cd-be9c-31180e0ce590.mp4
 
