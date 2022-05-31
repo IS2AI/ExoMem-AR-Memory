@@ -74,7 +74,7 @@ https://visualstudio.microsoft.com/ru/vs/older-downloads/
 https://unity3d.com/get-unity/download/archive
 
 ### Unity application for recording the spatiotemporal memory in AR
-1. Method 1
+
   * Download ExoMem_Record_Memory_HoloLens.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Go to the directory ~/ExoMem_Record_Memory_HoloLens/App/ExoMem_Record_Memory_App 
   * Rigth click ExoMem_Record_Memory_HoloLens.sln and open with Microsoft Visual Studio 2019 
@@ -83,7 +83,7 @@ https://unity3d.com/get-unity/download/archive
   * In Debug, select Start Without Debugging
 
 ### Unity application for loading the spatiotemporal memory in AR
-1. Method 1
+
   * Download ExoMem_Load_Memory_HoloLens.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Go to the directory ~/ExoMem_Load_Memory_HoloLens/App/ExoMem_Load_Memory 
   * Rigth click ExoMem_Load_Memory_HoloLens.sln and open with Microsoft Visual Studio 2019 
@@ -92,7 +92,7 @@ https://unity3d.com/get-unity/download/archive
   * In Debug, select Start Without Debugging
 
 ### Unity application for running the computer-based test 
-1. Method 1
+
   * Download Retrieve_Memory_Computer_Based_Test.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Open Unity 2018.4.28f1, at the start menu select open the project and go to the directory Retrieve_Memory_Computer_Based_Test
   * Go to scenes, open input_user_data_scene and run the program 
