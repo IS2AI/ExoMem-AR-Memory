@@ -98,7 +98,7 @@ https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b
 
 ## Computer based test 
 1. Run the Unity application in Desktop computer
-  * Computer_based_test
+  * Retrieve_Memory_Computer_Based_Test
 
 
 https://user-images.githubusercontent.com/7812207/171108214-f5c1e167-abd1-4a2c-81e7-2c8ee28137e7.mp4
