@@ -75,7 +75,12 @@ https://unity3d.com/get-unity/download/archive
 
 ### Unity application for recording the spatiotemporal memory in AR
 1. Method 1
-  * Download 
+  * Download ExoMem_Record_Memory_HoloLens.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
+  * Go to the directory ~/ExoMem_Record_Memory_HoloLens/App/ExoMem_Record_Memory_App 
+  * Rigth click ExoMem_Record_Memory_HoloLens.sln and open with Microsoft Visual Studio 2019 
+  * Visual Studio 2019, select (Release, ARM, Remote Machine)
+  * In Debug Properties, Machine Name: type the HoloLens' IP Address
+  * In Debug, select Start Without Debugging
 
 ### Unity application for loading the spatiotemporal memory in AR
 
