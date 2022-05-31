@@ -57,9 +57,9 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 ## Unity application for AR environment 
 
 # ExoMem 
-* [Record the spatiotemporal memory in AR]
-* [Load the spatiotemporal memory in AR]
-* [Computer based test]
+* [Record the spatiotemporal memory in AR](#record)
+* [Load the spatiotemporal memory in AR](#load)
+* [Computer based test](#computer-based test)
 
 ## Record the spatiotemporal memory in AR
 1. Start the ros master
