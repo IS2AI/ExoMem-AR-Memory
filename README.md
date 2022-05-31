@@ -95,7 +95,7 @@ https://unity3d.com/get-unity/download/archive
 1. Method 1
   * Download Retrieve_Memory_Computer_Based_Test.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Open Unity 2018.4.28f1, at the start menu select open the project and go to the directory Retrieve_Memory_Computer_Based_Test
-  * 
+  * Go to scenes, open input_user_data_scene and run the program 
 
 # ExoMem 
 * [Record the spatiotemporal memory in AR](#record)
