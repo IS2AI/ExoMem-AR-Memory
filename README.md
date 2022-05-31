@@ -59,7 +59,7 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 # ExoMem 
 * [Record the spatiotemporal memory in AR](#record)
 * [Load the spatiotemporal memory in AR](#load)
-* [Computer based test](#computer-based test)
+* [Computer-based test](#computer_based test)
 
 ## Record the spatiotemporal memory in AR
 1. Start the ros master
@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b
 1. Run the Unity application in HoloLens 2
   * ExoMem_Load_Memory_HoloLens
 
-## Computer based test 
+## Computer-based test 
 1. Run the Unity application in Desktop computer
   * Retrieve_Memory_Computer_Based_Test
 
