@@ -57,8 +57,11 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 ## Unity application for AR environment 
 
 # ExoMem 
+* [Record the spatiotemporal memory in AR]
+* [Load the spatiotemporal memory in AR]
+* [Computer based test]
 
-## Record the spatiotemporal memory
+## Record the spatiotemporal memory in AR
 1. Start the ros master
   * Open a new terminal, roscore will use python 2.7
   * $ sudo update-alternatives --config python
@@ -92,7 +95,7 @@ https://user-images.githubusercontent.com/7812207/171107006-372d1727-e0b7-400d-9
 https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b1d2-c34c8ba2ee46.mp4
 
 
-## Load the spatiotemporal memory 
+## Load the spatiotemporal memory in AR
 1. Run the Unity application in HoloLens 2
   * ExoMem_Load_Memory_HoloLens
 
