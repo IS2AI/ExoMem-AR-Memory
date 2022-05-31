@@ -1,5 +1,5 @@
 ﻿//
-//Created by zhanat Makhataeva
+//Created by Zhanat Makhataeva
 //Date: May 2022
 //
 using System;
