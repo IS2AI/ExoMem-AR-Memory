@@ -96,6 +96,9 @@ https://unity3d.com/get-unity/download/archive
   * Download Retrieve_Memory_Computer_Based_Test.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Open Unity 2018.4.28f1, at the start menu select open the project and go to the directory Retrieve_Memory_Computer_Based_Test
   * Go to scenes, open input_user_data_scene and run the program 
+  * Select AR:0, Day:1, ID: 1 (for example)
+  * Go to scenes, open load_memory_desktop and run the program 
+  * Select AR:0, Day:1, ID: 1 (for example)
 
 # ExoMem 
 * [Record the spatiotemporal memory in AR](#record)
