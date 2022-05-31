@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1d0y73MaLYDGnXHFyNfsM0MxcvIwlrBDm
   * $ unset PYTHONPATH
   * $ python AI_environment_perception.py -a 172.20.10.4
  
-## Unity application for AR environment 
+## Unity applications for AR environment 
 
 1. Visual Studio 2019 
 https://visualstudio.microsoft.com/ru/vs/older-downloads/
@@ -69,6 +69,12 @@ https://visualstudio.microsoft.com/ru/vs/older-downloads/
 * Universal Windows Platform development
 * Desktop development with C++
 * .Net Core cross-platform development
+
+### Unity application for recording the spatiotemporal memory in AR
+
+### Unity application for loading the spatiotemporal memory in AR
+
+### Unity application for running the computer-based test 
 
 2. Unity 2018.4.28f1
 https://unity3d.com/get-unity/download/archive
