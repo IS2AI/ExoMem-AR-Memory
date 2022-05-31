@@ -1,4 +1,4 @@
-# ExoMem - AR based human memory augmentation system using AI
+# ExoMem: AR based human memory augmentation system
 
 ![ExoMem_github](https://user-images.githubusercontent.com/7812207/171126281-4ea4e14a-d265-44bb-959c-f3cc278d7459.png)
 
