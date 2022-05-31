@@ -59,7 +59,7 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
 # ExoMem 
 * [Record the spatiotemporal memory in AR](#record)
 * [Load the spatiotemporal memory in AR](#load)
-* [Computer-based test](#computer_based test)
+* [Computer-based test](#test)
 
 ## Record the spatiotemporal memory in AR
 1. Start the ros master
