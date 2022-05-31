@@ -1,6 +1,6 @@
-# ExoMem: AR-based human memory augmentation system
-
 ![ExoMem_github](https://user-images.githubusercontent.com/7812207/171126281-4ea4e14a-d265-44bb-959c-f3cc278d7459.png)
+
+ExoMem: AR-based human memory augmentation system
 
 This repository contains the source code developed for human memory augmentation system, ExoMem. ExoMem is the first Augmented Reality (AR) and Artificial Intelligence (AI) enhanced cognitive assistant that constructs a synthetic spatiotemporal memory for objects in an indoor environment. Microsoft HoloLens AR Goggles sense the environment, exchange data over a wireless network and construct a spatiotemporal memory. A computing module performs computer vision-based localization and object detection on first-person view (FPV) data received from the HoloLens.
 
