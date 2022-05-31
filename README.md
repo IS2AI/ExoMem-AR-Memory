@@ -83,7 +83,7 @@ https://www.osetc.com/en/how-to-install-the-latest-python-3-7-on-ubuntu-16-04-or
   * $ python AI_environment_perception.py -a 172.20.10.4
 
 4. Run the Unity application in HoloLens 2 
-  * ExoMem_Record_Spatiotemporal_Memory
+  * ExoMem_Record_Memory_HoloLens
 
 
 https://user-images.githubusercontent.com/7812207/171107006-372d1727-e0b7-400d-96ed-1fe11455a880.mp4
