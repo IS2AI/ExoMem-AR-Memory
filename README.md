@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1d0y73MaLYDGnXHFyNfsM0MxcvIwlrBDm
   * $ unset PYTHONPATH
   * $ python AI_environment_perception.py -a 172.20.10.4
  
-## Unity applications for AR environment 
+## AR environment 
 
 1. Visual Studio 2019 
 https://visualstudio.microsoft.com/ru/vs/older-downloads/
