@@ -101,7 +101,7 @@ https://unity3d.com/get-unity/download/archive
 
 # ExoMem 
 * [Create the holographic visuospatial memory in AR](https://github.com/IS2AI/ExoMem-AR-Memory/blob/main/README.md#create-the-holographic-visuospatial-memory-in-ar)
-* [Load the holographic visuospatial memory in AR](#load)
+* [Load the holographic visuospatial memory in AR](https://github.com/IS2AI/ExoMem-AR-Memory/blob/main/README.md#load-the-holographic-visuospatial-memory-in-ar)
 * [Computer-based test for map-pointing activity](#test)
 
 ## Create the holographic visuospatial memory in AR
