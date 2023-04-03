@@ -104,7 +104,7 @@ https://unity3d.com/get-unity/download/archive
 * [Load the holographic visuospatial memory in AR](https://github.com/IS2AI/ExoMem-AR-Memory/blob/main/README.md#load-the-holographic-visuospatial-memory-in-ar)
 * [Computer-based test for map-pointing activity](https://github.com/IS2AI/ExoMem-AR-Memory/blob/main/README.md#computer-based-test-for-map-pointing-activity)
 
-## Create the holographic visuospatial memory in AR (#create)
+## Create the holographic visuospatial memory in AR 
 1. Start the ros master
   * Open a new terminal, roscore will use python 2.7
   * $ sudo update-alternatives --config python
