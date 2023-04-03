@@ -102,7 +102,7 @@ https://unity3d.com/get-unity/download/archive
 # ExoMem 
 * [Create the holographic visuospatial memory in AR](#create)
 * [Load the holographic visuospatial memory in AR](#load)
-* [Computer-based test for map-pointing activity](#test)
+* [Computer-based test](#test)
 
 ## Create the holographic visuospatial memory in AR
 1. Start the ros master
