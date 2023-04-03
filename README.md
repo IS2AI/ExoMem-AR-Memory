@@ -130,12 +130,12 @@ https://unity3d.com/get-unity/download/archive
 
 4. Run the Unity application in HoloLens 2 
   * ExoMem_Record_Memory_HoloLens
+  
+
+https://user-images.githubusercontent.com/7812207/229480773-01e7db9b-6f13-40bc-9992-045e1f6d5b11.mp4
 
 
-https://user-images.githubusercontent.com/7812207/171107006-372d1727-e0b7-400d-96ed-1fe11455a880.mp4
-
-
-https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b1d2-c34c8ba2ee46.mp4
+https://user-images.githubusercontent.com/7812207/229480834-248c6552-36ff-4665-ac0e-8035936c000f.mp4
 
 
 ## Load the holographic visuospatial memory in AR 
@@ -147,5 +147,5 @@ https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b
   * Retrieve_Memory_Computer_Based_Test
 
 
-https://user-images.githubusercontent.com/7812207/171108214-f5c1e167-abd1-4a2c-81e7-2c8ee28137e7.mp4
+https://user-images.githubusercontent.com/7812207/229480984-d8b9b8e9-7680-4ab7-a0b5-f48179f368e7.mp4
 
