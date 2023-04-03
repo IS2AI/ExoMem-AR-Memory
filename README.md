@@ -100,7 +100,7 @@ https://unity3d.com/get-unity/download/archive
   * Select AR:0, Day:1, ID: 1 (for example)
 
 # ExoMem 
-* [Create the holographic visuospatial memory in AR](#Create the holographic visuospatial memory in AR)
+* [Create the holographic visuospatial memory in AR](#create)
 * [Load the holographic visuospatial memory in AR](#load)
 * [Computer-based test for map-pointing activity](#test)
 
