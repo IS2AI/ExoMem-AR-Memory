@@ -1,6 +1,6 @@
 ![ExoMem_github_april](https://user-images.githubusercontent.com/7812207/229469811-f5c1cc70-4bdf-4e04-bbb3-cd88f6b08ce0.png)
 
-This repository contains the source code developed for AR-based human memory augmentation system, ExoMem. ExoMem is the first Augmented Reality (AR) and Artificial Intelligence (AI) enhanced cognitive assistant that constructs a synthetic spatiotemporal memory for objects in an indoor environment. Microsoft HoloLens AR Goggles sense the environment, exchange data over a wireless network and construct a spatiotemporal memory. A computing module performs computer vision-based localization and object detection on first-person view (FPV) data received from the HoloLens.
+This repository contains the source code developed for the AR-based human memory augmentation system, ExoMem. ExoMem is the first Augmented Reality (AR) and Artificial Intelligence (AI) enhanced head-worn system that constructs a holographic visuospatial memory in an indoor environment. Microsoft HoloLens AR Goggles sense the environment, exchange data over a wireless network with a computing module (PC with Ubuntu 16.04), and construct a holographic visuospatial memory. A computing module performs computer vision-based localization and object detection on first-person view (FPV) data received from the HoloLens.
 
 # Dependencies
 
@@ -72,7 +72,7 @@ https://visualstudio.microsoft.com/ru/vs/older-downloads/
 2. Unity 2018.4.28f1
 https://unity3d.com/get-unity/download/archive
 
-### Unity application for recording the spatiotemporal memory in AR
+### Unity application for creating holographic visuospatial memory in AR
 
   * Download ExoMem_Record_Memory_HoloLens.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Go to the directory ~/ExoMem_Record_Memory_HoloLens/App/ExoMem_Record_Memory_App 
@@ -81,7 +81,7 @@ https://unity3d.com/get-unity/download/archive
   * In Debug Properties, Machine Name: type the HoloLens' IP Address
   * In Debug, select Start Without Debugging
 
-### Unity application for loading the spatiotemporal memory in AR
+### Unity application for loading holographic visuospatial memory in AR
 
   * Download ExoMem_Load_Memory_HoloLens.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Go to the directory ~/ExoMem_Load_Memory_HoloLens/App/ExoMem_Load_Memory 
@@ -90,7 +90,7 @@ https://unity3d.com/get-unity/download/archive
   * In Debug Properties, Machine Name: type the HoloLens' IP Address
   * In Debug, select Start Without Debugging
 
-### Unity application for running the computer-based test 
+### Unity application for running the computer-based test during map-pointing activity
 
   * Download Retrieve_Memory_Computer_Based_Test.zip from https://drive.google.com/drive/folders/1CuzTKzWoNJYEFS3oJBJ-ZdGjIIBZWmXQ
   * Open Unity 2018.4.28f1, at the start menu select open the project and go to the directory Retrieve_Memory_Computer_Based_Test
@@ -104,7 +104,7 @@ https://unity3d.com/get-unity/download/archive
 * [Load the spatiotemporal memory in AR](#load)
 * [Computer-based test](#test)
 
-## Record the spatiotemporal memory in AR
+## Create the holographic visuospatial memory in AR
 1. Start the ros master
   * Open a new terminal, roscore will use python 2.7
   * $ sudo update-alternatives --config python
@@ -138,11 +138,11 @@ https://user-images.githubusercontent.com/7812207/171107006-372d1727-e0b7-400d-9
 https://user-images.githubusercontent.com/7812207/171107050-1a8d856e-bc66-49c3-b1d2-c34c8ba2ee46.mp4
 
 
-## Load the spatiotemporal memory in AR
+## Load the holographic visuospatial memory in AR 
 1. Run the Unity application in HoloLens 2
   * ExoMem_Load_Memory_HoloLens
 
-## Computer-based test 
+## Computer-based test for map-pointing activity
 1. Run the Unity application in Desktop computer
   * Retrieve_Memory_Computer_Based_Test
 
