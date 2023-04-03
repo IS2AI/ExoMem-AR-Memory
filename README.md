@@ -104,7 +104,7 @@ https://unity3d.com/get-unity/download/archive
 * [Load the holographic visuospatial memory in AR](#load)
 * [Computer-based test](#test)
 
-## Create the holographic visuospatial memory in AR
+## Create the holographic visuospatial memory in AR (#create)
 1. Start the ros master
   * Open a new terminal, roscore will use python 2.7
   * $ sudo update-alternatives --config python
@@ -143,7 +143,7 @@ https://user-images.githubusercontent.com/7812207/229480834-248c6552-36ff-4665-a
 1. Run the Unity application in HoloLens 2
   * ExoMem_Load_Memory_HoloLens
 
-## Computer-based test for map-pointing activity
+## Computer-based test (#test)
 1. Run the Unity application in Desktop computer
   * Retrieve_Memory_Computer_Based_Test
 
