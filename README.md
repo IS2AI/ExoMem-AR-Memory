@@ -100,9 +100,9 @@ https://unity3d.com/get-unity/download/archive
   * Select AR:0, Day:1, ID: 1 (for example)
 
 # ExoMem 
-* [Record the spatiotemporal memory in AR](#record)
-* [Load the spatiotemporal memory in AR](#load)
-* [Computer-based test](#test)
+* [Create the holographic visuospatial memory in AR](#create)
+* [Load the holographic visuospatial memory in AR](#load)
+* [Computer-based test for map-pointing activity](#test)
 
 ## Create the holographic visuospatial memory in AR
 1. Start the ros master
