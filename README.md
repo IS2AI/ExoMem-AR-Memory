@@ -1,6 +1,6 @@
 ![ExoMem_github_april](https://user-images.githubusercontent.com/7812207/229469811-f5c1cc70-4bdf-4e04-bbb3-cd88f6b08ce0.png)
 
-This repository contains the source code developed for the AR-based human memory augmentation system, ExoMem. ExoMem is the first Augmented Reality (AR) and Artificial Intelligence (AI) enhanced head-worn system that constructs a holographic visuospatial memory in an indoor environment. Microsoft HoloLens AR Goggles sense the environment, exchange data over a wireless network with a computing module (PC with Ubuntu 16.04), and construct a holographic visuospatial memory. A computing module performs computer vision-based localization and object detection on first-person view (FPV) data received from the HoloLens.
+This repository contains the source code developed for the AR-based human memory augmentation system, ExoMem. ExoMem is the first Augmented Reality (AR) and Artificial Intelligence (AI) enhanced head-worn system that constructs a holographic visuospatial memory in an indoor environment. Microsoft HoloLens AR Goggles sense the environment, exchange data over a wireless network with a computing module (PC with Ubuntu 16.04), and construct a holographic visuospatial memory. The computing module performs computer vision-based localization and object detection on first-person view (FPV) data received from the HoloLens.
 
 # Dependencies
 
